@@ -1,0 +1,18 @@
+div#box1{
+    text-align:center; 
+border-top-width: 3px;
+border-top-style: solid;
+border-top-color:#fde362;
+border-bottom-width: 3px;
+border-bottom-style: solid;
+border-bottom-color:#fde362;
+border-right-width: 3px;
+border-right-style: solid;
+border-right-color:#fde362;
+border-left-width: 3px;
+border-left-style: solid;
+border-left-color:#fde362;
+width: 500px;
+position:absolute;
+bottom:400px;
+}
